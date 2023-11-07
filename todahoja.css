@@ -1,0 +1,13 @@
+body{
+    background: rgba(243, 243, 247, 0.952);
+}
+
+/* img{
+    float: none;
+    position: absolute;
+} */
+
+p{
+    color: rgb(5, 3, 3);
+    position: relative;
+}
